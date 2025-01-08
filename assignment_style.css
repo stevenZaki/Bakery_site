@@ -135,3 +135,59 @@ a{
 
 /* End About Us */
 
+/* Start Our Location */
+
+.OurLocation{
+    background-color: rgb(224, 221, 221);
+    overflow: hidden;
+    height: 650px;
+
+}
+
+.OurLocation img {
+    width: 421px;
+    height: 335px;
+    padding-top: 160px;
+    padding-left: 200px;
+}
+
+.paragraph{
+    float: left;
+    width: 460px;
+    height: 340px;
+    padding-top: 200px;
+    padding-left: 200px;
+    text-align: left;
+}
+/* End Our Location */
+
+
+/* Start Our Baking */
+
+.OurBaking{
+    height: 500px;
+    width: auto;
+    padding: 70px 42px;
+}
+.content{
+    text-align: center;
+    margin-bottom: 60px;
+}
+.container{
+    display: inline-flex;
+    gap: 80px;
+}
+.Superior_Breads{
+    height: 485PX;
+    width: 380px;
+    
+    }
+.Superior_Breads img{
+    width: 380PX;
+    height: 315px;
+    margin-bottom: 15px;
+}
+.Superior_Breads h3, p{
+    text-align: center;
+}
+/*  End Our Baking */

@@ -1,0 +1,137 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Alegreya";
+
+
+    }
+.nv{
+    background-color: #686868;
+}
+.navBar{
+    height: 70px;
+    padding: 0px 15.938;
+    margin: 0px 64px;
+    
+}
+
+.navBar img{
+    width: 180px;
+    height: 50px;
+    padding-top: 10px;
+}
+.menu{
+
+    float: right;
+    padding: 10px;
+    overflow: hidden;
+  
+}
+a{
+    float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 10px 10px 0px 10px;
+  text-decoration: none;
+  font-size: 17px;
+
+}
+
+.homePage{
+    background-image: url("drew-coffman-1872.jpg");
+    height: 100vh;
+
+    background-size: 100% 100%;
+}
+
+.banner{
+    width: 700PX;
+    text-align: center;
+    margin: auto;
+    padding-top: 200px;
+}
+
+.banner p{
+    color: #fff;
+    margin-bottom: 5px;
+    font-size: 22px;
+    
+}
+
+.banner h1{
+    color: #fff;
+    margin-bottom: 34px;
+    font-family: "Alegreya";
+
+}
+
+.btn1{
+    
+    padding: 20px;
+    margin-top: 10px;
+    border: none;
+    background-color: tan;
+    color: white;
+    cursor: pointer;
+}   
+.btn1:hover{
+    
+    background-color: white;
+  color: black;
+}
+.btn2{
+    
+    padding: 20px;
+    margin-top: 10px;
+    border-width: 1px;
+    border-style:outset;
+    border-color: white;
+    cursor: pointer;
+    color: white;
+    background-color: transparent;
+
+}
+.btn2:hover{
+    
+    background-color: tan;
+  color: black;
+  
+}
+
+/* Start About Us */
+
+.aboutUs{
+    height: 100vh;
+}
+.image {
+    height: 500px;
+    width: 500px;
+    margin-left: 120px;
+    margin-top: 80px;
+
+   
+}
+.whoWeAre img{
+    width: 44px;
+    height: 44px;
+}
+.whoWeAre{
+    float: right;
+    width: 600px;
+    height: 400px;
+    margin-top: 110px;
+    margin-right: 80px;
+    text-align: left;
+}
+.whoWeAre h2{
+    margin-bottom: 20px;
+}
+
+.icons p{
+    display: inline-block;
+    margin-left: 10px;
+    padding-bottom: 10px
+}
+
+/* End About Us */
+
